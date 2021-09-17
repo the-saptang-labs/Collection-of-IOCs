@@ -1,3 +1,7 @@
+# The source of IOCs
+
+https://blog.saptanglabs.com/targeting-weak-links-in-the-ciis-chain-qbots-new-tactics-in-ransomware-era-e2d3e91e1cad
+
 # List of Indicators of Compromise (IOCs):
 
 ## Email file Hashes
